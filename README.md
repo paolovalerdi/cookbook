@@ -45,6 +45,8 @@ You can find more information about the inner working of some the components in 
 
 ## Features
 
+- Minimalist UI & UX
+- Custom fonts
 - Search
 - Pagination
 - Favorites
