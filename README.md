@@ -1,4 +1,4 @@
-# Technical Take Home - Paolo Valerdi - Sr Mobile Engineer
+# Cookbook
 
 ## Getting Started
 
